@@ -1,6 +1,6 @@
 # flutter_calculator
 
-A new Flutter project.
+使用Flutter框架编写的跨平台计算器应用
 
 ## Getting Started
 
