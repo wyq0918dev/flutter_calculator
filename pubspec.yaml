@@ -1,5 +1,5 @@
 name: flutter_calculator
-description: "A new Flutter project."
+description: "使用Flutter框架编写的跨平台计算器应用"
 publish_to: 'none'
 version: 1.0.0+1
 
